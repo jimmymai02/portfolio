@@ -3,9 +3,9 @@
 ### Technical Skills: SQL, Python, R, Tableau
 
 ### Education
--M.S., Business Analytics | The University of Texas at Dallas (_Expected graduation in May 2024_)
+- M.S., Business Analytics | The University of Texas at Dallas (_Expected graduation in May 2024_)
 
--B.S., Healthcare Studies | The University of Texas at Dallas (_June 2020_)
+- B.S., Healthcare Studies | The University of Texas at Dallas (_June 2020_)
 
 ### Professional Experience
 **Medical Assistant @ Dermatology Surgery Specialists (_May 2022 - Present_)**
